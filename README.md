@@ -27,7 +27,7 @@ Make sure you have a modern web browser installed to play the game.
 1. Clone the repository:
 
    ```bash
-   [https://github.com/HarishVinayagamoorthy/Project-3-Dice-Game](https://github.com/Abhi-godse/Dicegame.git)
+   https://github.com/Abhi-godse/Dicegame.git
    ```
 
 2. Open the project directory in your favorite code editor.
